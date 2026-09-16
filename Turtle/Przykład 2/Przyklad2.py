@@ -1,0 +1,10 @@
+import turtle
+żółw = turtle.Turtle()
+żółw.shape('turtle')
+żółw.forward(200)
+żółw.right(90)
+żółw.forward(150)
+żółw.right(90)
+żółw.forward(100)
+żółw.home()
+turtle.exitonclick()

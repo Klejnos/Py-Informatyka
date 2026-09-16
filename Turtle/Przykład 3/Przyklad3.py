@@ -1,0 +1,11 @@
+import turtle
+żółw = turtle.Turtle()
+żółw.shape('turtle')
+żółw.circle(40)
+żółw.right(90)
+żółw.circle(40)
+żółw.right(90)
+żółw.circle(40)
+żółw.right(90)
+żółw.circle(40)
+turtle.exitonclick()
